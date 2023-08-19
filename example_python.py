@@ -1,4 +1,4 @@
 greeting = 'Hello!'
 
 while True:
-    pass
+    print(greeting)
