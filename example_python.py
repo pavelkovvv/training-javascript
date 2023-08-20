@@ -1,4 +1,4 @@
-greeting = 'Hello!'
+greting = 'Hello!'
 
 while True:
-    print(greeting)
+    print(greting)
