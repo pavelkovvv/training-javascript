@@ -2,8 +2,8 @@ function getName(name) {
     return name;
 }
 
-let user = {
-    getName: getName(),
+const user = {
+    getNameVar: getName,
 };
 
-user.getName('John');
+console.log(user.getNameVar('John'));
