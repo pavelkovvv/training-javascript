@@ -1,9 +1,8 @@
-function getName(name) {
-    return name;
+'use strict';
+
+let n = 'sdsdsd';
+
+if (typeof n === == 'string'){
+    console.log('lllooooolll')
 }
 
-const user = {
-    getNameVar: getName,
-};
-
-console.log(user.getNameVar('John'));
