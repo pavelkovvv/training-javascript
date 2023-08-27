@@ -1,5 +1,4 @@
-greeting = 'Артем лооох'
+greting = 'Hello!'
 
 while True:
-    print(greeting)
-    
+    print(greting)
